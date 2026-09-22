@@ -3,3 +3,4 @@ line-bot-sdk
 python-dotenv
 requests
 gunicorn
+supabase
